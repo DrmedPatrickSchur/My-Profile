@@ -30,7 +30,7 @@
 <a href="https://twitter.com/patrickmschur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="patrickmschur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/patrick-schur-md-emba-scm-eth-cas-in-hospital-leadership-957b7285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-schur-md-emba-scm-eth-cas-in-hospital-leadership-957b7285/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/patrick.schur.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/patrick.schur.71" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqvsfqxny4jhhzsq9utktkq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/tsLZRS-nZQU" height="30" width="40" /></a>
+<a href="https://youtu.be/tsLZRS-nZQU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/tsLZRS-nZQU" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
