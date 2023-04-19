@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Patrick.Schur@icloud.com**
 
-- 📄 Know about my experiences [www.schur.ch](www.schur.ch) or [www.swissmedicine.ch/profile](my public profile)
+- 📄 Know about my experiences [www.schur.ch](www.schur.ch) or [www.swissmedicine.ch/profile]
 
 - ⚡ Fun fact **Let us go skiing in the Swiss Alpes :-)**
 
