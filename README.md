@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/patrickmschur" target="blank"><img src="https://img.shields.io/twitter/follow/patrickmschur?logo=twitter&style=for-the-badge" alt="patrickmschur" /></a> </p>
 
-- 🔭 I’m currently working on [Fullstack Web Development BootCamp](https://github.com/DrmedPatrickSchur)
+- 🔭 I’m currently working on [a Computer Science degree at university of London, I've got recently the Fullstack Web Development BootCamp at LeWagon](https://github.com/DrmedPatrickSchur)
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Patrick.Schur@icloud.com**
 
-- 📄 Know about my experiences [www.schur.ch](www.schur.ch)
+- 📄 Know about my experiences [www.schur.ch](www.schur.ch) or [www.swissmedicine.ch/profile/](my public profile)
 
 - ⚡ Fun fact **Let us go skiing in the Swiss Alpes :-)**
 
