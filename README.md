@@ -41,6 +41,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drmedpatrickschur&show_icons=true&locale=en&layout=compact" alt="drmedpatrickschur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drmedpatrickschur&show_icons=true&locale=en" alt="drmedpatrickschur" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drmedpatrickschur&" alt="drmedpatrickschur" /></p>
