@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick</h1>
+<h1 align="center">Hi 👋, I'm Patrick, Dev Alias Kepler</h1>
 <h3 align="center">A passionate full stack developer from Switzerland/USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drmedpatrickschur&label=Profile%20views&color=0e75b6&style=flat" alt="drmedpatrickschur" /> </p>
