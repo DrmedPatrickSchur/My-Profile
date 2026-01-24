@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drmedpatrickschur&label=Profile%20views&color=0e75b6&style=flat" alt="drmedpatrickschur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drmedpatrickschur" alt="drmedpatrickschur" /></a> </p> 
-
 <p align="left"> <a href="https://twitter.com/patrickmschur" target="blank"><img src="https://img.shields.io/twitter/follow/patrickmschur?logo=twitter&style=for-the-badge" alt="patrickmschur" /></a> </p>
 
 - 🔭 I’m currently working on [a Computer Science degree at university of London, I've got recently the Fullstack Web Development BootCamp at LeWagon](https://github.com/DrmedPatrickSchur)
